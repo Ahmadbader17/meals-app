@@ -1,0 +1,33 @@
+#meal-list {
+    margin-top: 20px;
+  }
+  
+  .meal-card {
+    margin-bottom: 20px;
+  }
+  
+  .meal-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .meal-card h5 {
+    margin-top: 10px;
+    margin-bottom: 0;
+  }
+  
+  .meal-card p {
+    margin-top: 5px;
+    margin-bottom: 0;
+  }
+  
+  .meal-card a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .meal-card a:hover {
+    text-decoration: underline;
+  }
+  
